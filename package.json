@@ -1,0 +1,22 @@
+{
+  "name": "matrix-js-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savuerka/simple-proj.git"
+  },
+  "author": "a.zvyagincev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savuerka/simple-proj/issues"
+  },
+  "homepage": "https://github.com/savuerka/simple-proj#readme",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
